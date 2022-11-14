@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": " Attach to chrome",
+            "part": 9222,
+            "request": "launch",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+            
+        },
+
+
+
+        {
+
+            "type": "chrome",
+            "request": "launch",
+            "name": "aluraflix.html",
+            "file": "C:\\Users\\User\\Desktop\\programação\\aluraflix\\dist\\aluraflix.html"
+
+
+        }
+    ]
+}
